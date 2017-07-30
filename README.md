@@ -4,13 +4,13 @@
 包括并发增强、函数、IO增强、lambda表达式、语言增强、Stream、新的时间函数、工具增强等8个部分。<br/>
 参考[Java SE 8 for the Really Impatient](http://ptgmedia.pearsoncmg.com/images/9780321927767/samplepages/0321927761.pdf) by Cay S.Horstmann。<br/>
 
-##concurrent
+## concurrent
 *   原子变量增强
 *   Future增强
 *   ConcurrentHashMap增强
 *   锁增强（StampedLock）
 
-##function
+## function
 *	Supplier（生产者）
 *	Consumer（一元消费者）
 *	Predicate（断言）
@@ -22,19 +22,19 @@
 *	BinaryOperator（二元操作）
 *   BiConsumer（二元消费者）
 
-##io
+## io
 *   文件访问增强
 
-##lambda
+## lambda
 *   lambda表达式的语法
 *   方法引用
 
-##lang
+## lang
 *   接口的默认方法和静态方法
 *   注解增强
 *	反射方法参数
 
-##stream
+## stream
 *   stream之创建
 *   stream之map（映射）
 *   stream之filter（过滤）
@@ -44,10 +44,10 @@
 *   stream之收集
 *   stream之并发
 
-##time
+## time
 *   获取时间
 *   格式化和解析
 
-##util
+## util
 *   Comparator增强
 *   base64编码
